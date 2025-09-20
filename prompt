@@ -11,4 +11,25 @@
 
 *The final notes should be structured in a way that makes them useful for both quick revision and interview preparation."*
 
-Create a seperate file
+*Also Create a seperate file 
+
+
+**Prompt:**
+*"Please summarize the following transcription of a Java class video into clear and concise notes. Organize the content with proper headings, subheadings, and bullet points for readability. Include:*
+
+* **Learning objectives** (what I should be able to understand/do after reading)
+* **Key concepts & definitions**
+* **Step-by-step explanation of important points explained in the video**
+* **Examples with small code snippets**
+* **Diagrams** (class diagrams, flowcharts, lifecycle diagrams, or comparisons if applicable)
+* **Common interview questions with brief answers**
+* **Hands-on exercises / practice tasks**
+* **Real-world use cases / scenarios**
+* **Best practices, common pitfalls, and debugging tips**
+* **Comparisons with related concepts**
+* **Memory hooks / mnemonics to remember rules**
+* **Cheat sheet / quick revision section**
+
+*The final notes should be structured in a way that makes them useful for both quick revision and in-depth interview preparation."*
+
+* Also Create a seperate file
