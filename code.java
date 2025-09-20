@@ -1,18 +1,12 @@
 public class code {
 
+    public static void code(int a) {
+        System.out.println("Value of a: " + a);
+    }
     public static void main(String[] args) {
+        char c = (char)-364;
         System.out.println("Hello, World!");
-    }
-}
-
- class code1 {  // ERROR: Class name doesn't match file name
-    public static void main(String[] args) {
-        System.out.println("This won't work");
-    }
-}
-
-class code2 {  // ERROR: Class name doesn't match file name
-    public static void main(String[] args) {
-        System.out.println("This won't work");
+        System.out.println(c);
+        System.out.println((int) c);
     }
 }
